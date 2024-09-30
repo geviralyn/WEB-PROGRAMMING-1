@@ -1,0 +1,12 @@
+ login di buat variabel dalam php, ra[pihin halaman beranda, rapihkan halaman dashboard dan rapihkan codingan vscode
+
+inner join for id_kamar
+
+SELECT tbl_penyewa.id_kamar, tbl_penyewa.id_kamar, tbl_jenis_kamar.id AS id_kamar
+FROM tbl_penyewa
+INNER JOIN tbl_jenis_kamar ON tbl_penyewaan.id_kamar = tbl_jenis_kamar.id;
+
+
+jangan lupa durasi di bagian tampilan table
+
+tombol logout blm selesai. dan table hasil, jika ada Waktu buatlah jumlah penghasilan perusahaan dan jumlah kamar dan blablablad
